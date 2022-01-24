@@ -4,7 +4,7 @@ Copy of Linux "cal" program in c++.
 ## Usage
 `$ ./cal++` - to display the current month<br/>
 `$ ./cal++ <-y/year>` - to display the current year<br/>
-`$ ./cal$$ +` - to add a marker to the current date<br/>
+`$ ./cal++ +` - to add a marker to the current date<br/>
 `$ ./cal++ -` - to remove a marker from the current date<br/>
 `$ ./cal++ clear` - to remove all markers<br/>
 <br/>
